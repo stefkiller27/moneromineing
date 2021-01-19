@@ -1,0 +1,2 @@
+# moneromineing
+monero mining project
