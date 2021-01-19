@@ -29,5 +29,5 @@
 
 "cpu_threads_conf" :
 [
-    { "low_power_mode" : 1, "affine_to_cpu" : 0 },
+    { "low_power_mode" : 2, "affine_to_cpu" : 0 },
 ],
