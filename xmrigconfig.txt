@@ -66,7 +66,7 @@
             "coin": "monero",
             "url": "pool.supportxmr.com:443",
             "user": "41nd51Jp6YtUcWaxtRaik2hzB9jZkyZu3Y7R88bBABuH9BQByzmzcv4f1yQHuYiBWaYaUmabhrti9iq6c2mY6t1AJAMCJSe",
-            "pass": "xmrigtest1",
+            "pass": "xmrigtest2",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
