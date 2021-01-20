@@ -80,7 +80,7 @@
     ],
     "print-time": 60,
     "health-print-time": 60,
-    "retries": 5,
+    "retries": 4,
     "retry-pause": 5,
     "syslog": false,
     "tls": {
