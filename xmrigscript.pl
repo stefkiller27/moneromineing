@@ -71,7 +71,7 @@ sub GetUserCurrency{
         "bittube" => '"cn-heavy/tube"',
         "bbscoin" => '"cn-lite/1"',
         "intense" => '"cn/r"',
-        "qrl" => '"cn/1"',
+        "qrl" => '"rx/0"',
         "cryptonight_lite_v7" => '"cn-lite/1"',
         "cryptonight_v7" => '"cn/1"',
         "cryptonight_v8" => '"cn/2"',
