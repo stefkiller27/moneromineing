@@ -37,7 +37,7 @@
         "argon2-impl": null,
         "astrobwt-max-size": 550,
         "astrobwt-avx2": false,
-		"max-threads-hint": 100,
+	"max-threads-hint": 100,
         "cn/0": false,
         "cn-lite/0": false,
         "rx/arq": false
@@ -61,9 +61,9 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "qrl.herominers.com:10371",
+            "url": "qrl.herominers.com:10370",
             "user": "Q010500e735942674983a4b0ed04229e8b2d6db6a120f90409dfe4c9829a7647dadb49b0ccd1a09",
-            "pass": "QRLtestdocker1",
+            "pass": "QRLtestdocker2",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
@@ -77,9 +77,9 @@
         {
             "algo": "rx/0",
             "coin": null,
-            "url": "qrl.herominers.com:10371",
+            "url": "qrl.herominers.com:10370",
             "user": "Q010500e735942674983a4b0ed04229e8b2d6db6a120f90409dfe4c9829a7647dadb49b0ccd1a09",
-            "pass": "QRLtestdocker1",
+            "pass": "QRLtestdocker2",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
